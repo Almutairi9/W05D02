@@ -1,0 +1,7 @@
+
+[
+    { "id": "1" , "name": "Cruella", "isFalse": "true" , "isDeleted": "false"},
+    { "id": "2" , "name": "Cruella", "isFalse": "true" , "isDeleted": "false"},
+    { "id": "3" , "name": "Cruella", "isFalse": "false" , "isDeleted": "true"},
+    { "id": "4" , "name": "Cruella", "isFalse": "false" , "isDeleted": "true"}
+] 
